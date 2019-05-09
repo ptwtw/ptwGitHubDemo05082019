@@ -18,3 +18,67 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 23:05:25.257
 !MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 23:12:57.798
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 23:12:57.811
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 23:12:58.837
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 23:12:58.851
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 23:15:06.245
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 23:15:06.257
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 23:15:07.327
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 23:15:07.341
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 23:15:23.634
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 23:15:23.648
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 23:15:31.012
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 23:15:31.018
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 23:15:44.687
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 23:15:44.695
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.testng.eclipse 1 0 2019-05-08 23:15:44.875
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Acer\eclipse\java-2018-12\eclipse\configuration\org.eclipse.osgi\481\0\.cp\lib\testng-remote.jar C:\Users\Acer\Desktop\TW- Batch\WorkSpace2_GitHubDemo\ptwGitHub\target\test-classes C:\Users\Acer\Desktop\TW- Batch\WorkSpace2_GitHubDemo\ptwGitHub\target\classes C:\Users\Acer\.p2\pool\plugins\org.testng_6.14.3.r201802240500.jar C:\Users\Acer\.p2\pool\plugins\com.beust.jcommander_1.72.0.jar C:\Users\Acer\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Acer\.p2\pool\plugins\org.yaml.snakeyaml_1.17.0.jar C:\Users\Acer\.m2\repository\org\testng\testng\6.14.3\testng-6.14.3.jar C:\Users\Acer\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar C:\Users\Acer\.m2\repository\org\apache-extras\beanshell\bsh\2.0b6\bsh-2.0b6.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 63652 -protocol json -d C:\Users\Acer\Desktop\TW- Batch\WorkSpace2_GitHubDemo\ptwGitHub\test-output C:\Users\Acer\AppData\Local\Temp\testng-eclipse--159112305\testng-customsuite.xml
+java -ea -classpath C:\Users\Acer\eclipse\java-2018-12\eclipse\configuration\org.eclipse.osgi\481\0\.cp\lib\testng-remote.jar:C:\Users\Acer\Desktop\TW- Batch\WorkSpace2_GitHubDemo\ptwGitHub\target\test-classes:C:\Users\Acer\Desktop\TW- Batch\WorkSpace2_GitHubDemo\ptwGitHub\target\classes:C:\Users\Acer\.p2\pool\plugins\org.testng_6.14.3.r201802240500.jar:C:\Users\Acer\.p2\pool\plugins\com.beust.jcommander_1.72.0.jar:C:\Users\Acer\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Acer\.p2\pool\plugins\org.yaml.snakeyaml_1.17.0.jar:C:\Users\Acer\.m2\repository\org\testng\testng\6.14.3\testng-6.14.3.jar:C:\Users\Acer\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar:C:\Users\Acer\.m2\repository\org\apache-extras\beanshell\bsh\2.0b6\bsh-2.0b6.jar org.testng.remote.RemoteTestNG -serport 63652 -protocol json -d C:\Users\Acer\Desktop\TW- Batch\WorkSpace2_GitHubDemo\ptwGitHub\test-output C:\Users\Acer\AppData\Local\Temp\testng-eclipse--159112305\testng-customsuite.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 23:16:12.774
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-08 23:16:12.782
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.testng.eclipse 1 0 2019-05-08 23:16:12.885
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Acer\eclipse\java-2018-12\eclipse\configuration\org.eclipse.osgi\481\0\.cp\lib\testng-remote.jar C:\Users\Acer\Desktop\TW- Batch\WorkSpace2_GitHubDemo\ptwGitHub\target\test-classes C:\Users\Acer\Desktop\TW- Batch\WorkSpace2_GitHubDemo\ptwGitHub\target\classes C:\Users\Acer\.p2\pool\plugins\org.testng_6.14.3.r201802240500.jar C:\Users\Acer\.p2\pool\plugins\com.beust.jcommander_1.72.0.jar C:\Users\Acer\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar C:\Users\Acer\.p2\pool\plugins\org.yaml.snakeyaml_1.17.0.jar C:\Users\Acer\.m2\repository\org\testng\testng\6.14.3\testng-6.14.3.jar C:\Users\Acer\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar C:\Users\Acer\.m2\repository\org\apache-extras\beanshell\bsh\2.0b6\bsh-2.0b6.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 63654 -protocol json -d C:\Users\Acer\Desktop\TW- Batch\WorkSpace2_GitHubDemo\ptwGitHub\test-output C:\Users\Acer\AppData\Local\Temp\testng-eclipse--1587068715\testng-customsuite.xml
+java -ea -classpath C:\Users\Acer\eclipse\java-2018-12\eclipse\configuration\org.eclipse.osgi\481\0\.cp\lib\testng-remote.jar:C:\Users\Acer\Desktop\TW- Batch\WorkSpace2_GitHubDemo\ptwGitHub\target\test-classes:C:\Users\Acer\Desktop\TW- Batch\WorkSpace2_GitHubDemo\ptwGitHub\target\classes:C:\Users\Acer\.p2\pool\plugins\org.testng_6.14.3.r201802240500.jar:C:\Users\Acer\.p2\pool\plugins\com.beust.jcommander_1.72.0.jar:C:\Users\Acer\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\Acer\.p2\pool\plugins\org.yaml.snakeyaml_1.17.0.jar:C:\Users\Acer\.m2\repository\org\testng\testng\6.14.3\testng-6.14.3.jar:C:\Users\Acer\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar:C:\Users\Acer\.m2\repository\org\apache-extras\beanshell\bsh\2.0b6\bsh-2.0b6.jar org.testng.remote.RemoteTestNG -serport 63654 -protocol json -d C:\Users\Acer\Desktop\TW- Batch\WorkSpace2_GitHubDemo\ptwGitHub\test-output C:\Users\Acer\AppData\Local\Temp\testng-eclipse--1587068715\testng-customsuite.xml
