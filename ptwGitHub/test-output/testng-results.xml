@@ -2,15 +2,23 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="26" started-at="2019-05-09T03:16:13Z" finished-at="2019-05-09T03:16:13Z">
+  <suite name="Default suite" duration-ms="31" started-at="2019-05-09T03:21:14Z" finished-at="2019-05-09T03:21:14Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="26" started-at="2019-05-09T03:16:13Z" finished-at="2019-05-09T03:16:13Z">
+    <test name="Default test" duration-ms="31" started-at="2019-05-09T03:21:14Z" finished-at="2019-05-09T03:21:14Z">
       <class name="ptwGitHub.MathCalculation">
-        <test-method status="PASS" signature="Addition()[pri:0, instance:ptwGitHub.MathCalculation@32d992b2]" name="Addition" duration-ms="7" started-at="2019-05-09T03:16:13Z" finished-at="2019-05-09T03:16:13Z">
+        <test-method status="PASS" signature="Header()[pri:0, instance:ptwGitHub.MathCalculation@51efea79]" name="Header" is-config="true" duration-ms="12" started-at="2019-05-09T03:21:14Z" finished-at="2019-05-09T03:21:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Header -->
+        <test-method status="PASS" signature="Addition()[pri:0, instance:ptwGitHub.MathCalculation@51efea79]" name="Addition" duration-ms="3" started-at="2019-05-09T03:21:14Z" finished-at="2019-05-09T03:21:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Addition -->
+        <test-method status="PASS" signature="Footer()[pri:0, instance:ptwGitHub.MathCalculation@51efea79]" name="Footer" is-config="true" duration-ms="0" started-at="2019-05-09T03:21:14Z" finished-at="2019-05-09T03:21:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Footer -->
       </class> <!-- ptwGitHub.MathCalculation -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
